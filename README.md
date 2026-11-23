@@ -1,6 +1,8 @@
 # Reproducibility package — Figures 1–3, Figure S1 and the M2 sensitivity checks
 
-**Version 1.0.0** · Companion to: Li T, Qiu X. *Cell-type-specific gene-coordination divergence in the LH+7 endometrium of women with recurrent implantation failure* (submitted, 2026).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24468646.svg)](https://doi.org/10.5281/zenodo.24468646)
+
+**Version 1.0.0** · [doi:10.5281/zenodo.24468646](https://doi.org/10.5281/zenodo.24468646) · Companion to: Li T, Qiu X. *Cell-type-specific gene-coordination divergence in the LH+7 endometrium of women with recurrent implantation failure* (submitted, 2026).
 
 This folder contains the source data, plotting scripts and environment needed to regenerate **Fig. 1, Fig. 2, Fig. 3 and Fig. S1** from the delivered tables. Every table these four figure scripts read is included, and the package has been run end to end against the submitted figures (see *Verification*).
 
@@ -76,6 +78,14 @@ Re-verified on 2026-11-23 from a clean copy of this repository, under a delibera
 - `scripts/` and `requirements.txt`: MIT — see `LICENSE`
 - `data/` and any figures regenerated from it: CC BY 4.0 — see `LICENSE-DATA`
 - The primary data from GSE250130, GSE248784 and GSE106602 remain under the terms of the original submitters and of NCBI/GEO.
+
+## Citation
+
+If you use this package, cite the archived release:
+
+> Li T, Qiu X. *Reproducibility package: cell-type-specific gene-coordination divergence in the LH+7 endometrium of women with recurrent implantation failure*. Version 1.0.0. Zenodo. 2026. doi:10.5281/zenodo.24468646
+
+Machine-readable metadata are in `CITATION.cff`.
 
 ## Changes relative to the v2.1 bundle
 

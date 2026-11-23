@@ -18,9 +18,9 @@ authors:
     orcid: "https://orcid.org/0009-0003-8966-8073"
     affiliation: "Department of Obstetrics and Gynecology, Nanfang Hospital, Southern Medical University, Guangzhou, China"
 
-# NOTE: replace qxw-AS with the account that hosts this repository,
-# and add a `doi:` line (10.5281/zenodo.xxxxxxx) once the Zenodo release is minted.
 repository-code: "https://github.com/qxw-AS/RIF-scDNS-reproducibility"
+doi: "10.5281/zenodo.24468646"
+url: "https://doi.org/10.5281/zenodo.24468646"
 
 license: MIT
 keywords:
