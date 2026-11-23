@@ -71,6 +71,12 @@ Page widths of the regenerated PDFs (178.5–183.2 mm) are the analysis-export w
 
 Re-verified on 2026-11-23 from a clean copy of this repository, under a deliberately different environment (Python 3.10.4, numpy 1.26.4, pandas 2.3.3, matplotlib 3.10.9, scipy 1.15.3, Windows): all four PNGs reproduced **byte for byte** (MD5 identical), the four PDFs kept identical file sizes with only the embedded creation timestamps differing, `stage6c_modules.py` returned h = 9.821 with 8 modules and 46 genes in M2, and the cut-height grid returned M2 intact (Jaccard = 1.00, HLA-A/B/C co-clustered) at all 122 points from h = 7.95 to 14.00.
 
+## License
+
+- `scripts/` and `requirements.txt`: MIT — see `LICENSE`
+- `data/` and any figures regenerated from it: CC BY 4.0 — see `LICENSE-DATA`
+- The primary data from GSE250130, GSE248784 and GSE106602 remain under the terms of the original submitters and of NCBI/GEO.
+
 ## Changes relative to the v2.1 bundle
 
 1. **Input paths parametrised in all 56 scripts.** The scripts previously read `/workspace/rif_fig1/...`; every path is now resolved from the package location, with `RIF_ROOT` / `RIF_DATA*` / `RIF_FIG` as overrides. No machine-specific path remains anywhere in `scripts/`.
