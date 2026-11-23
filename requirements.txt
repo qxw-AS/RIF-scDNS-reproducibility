@@ -1,0 +1,10 @@
+# Minimum set needed to regenerate Fig. 1, Fig. 2, Fig. 3, Fig. S1
+# and the cut-height sensitivity table (Table S5, sheet S5_cutheight).
+# Versions are those used for the submitted figures.
+# The full analysis environment (72 packages, incl. scanpy/anndata/gseapy)
+# is recorded in environment.txt.
+
+numpy==2.4.6
+pandas==2.3.3
+matplotlib==3.11.0
+scipy==1.17.1

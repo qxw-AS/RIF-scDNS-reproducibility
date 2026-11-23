@@ -1,0 +1,177 @@
+sample,group,cell_type,n
+LH7_1,Fertile,B/Plasma,13
+LH7_1,Fertile,Ciliated,23
+LH7_1,Fertile,Endothelial,16
+LH7_1,Fertile,Epithelial,790
+LH7_1,Fertile,Glandular,336
+LH7_1,Fertile,Lymphatic EC,5
+LH7_1,Fertile,Mast,37
+LH7_1,Fertile,Myeloid,84
+LH7_1,Fertile,NK cell,288
+LH7_1,Fertile,Stromal,6894
+LH7_1,Fertile,T cell,407
+LH7_2,Fertile,B/Plasma,14
+LH7_2,Fertile,Ciliated,240
+LH7_2,Fertile,Endothelial,11
+LH7_2,Fertile,Epithelial,6045
+LH7_2,Fertile,Glandular,142
+LH7_2,Fertile,Lymphatic EC,4
+LH7_2,Fertile,Mast,14
+LH7_2,Fertile,Myeloid,64
+LH7_2,Fertile,NK cell,507
+LH7_2,Fertile,Stromal,355
+LH7_2,Fertile,T cell,571
+LH7_3,Fertile,B/Plasma,43
+LH7_3,Fertile,Ciliated,157
+LH7_3,Fertile,Endothelial,17
+LH7_3,Fertile,Epithelial,2908
+LH7_3,Fertile,Glandular,712
+LH7_3,Fertile,Lymphatic EC,41
+LH7_3,Fertile,Mast,1
+LH7_3,Fertile,Myeloid,167
+LH7_3,Fertile,NK cell,1569
+LH7_3,Fertile,Stromal,432
+LH7_3,Fertile,T cell,1266
+LH7_PGT_1,Fertile,B/Plasma,39
+LH7_PGT_1,Fertile,Ciliated,256
+LH7_PGT_1,Fertile,Endothelial,28
+LH7_PGT_1,Fertile,Epithelial,336
+LH7_PGT_1,Fertile,Glandular,217
+LH7_PGT_1,Fertile,Lymphatic EC,21
+LH7_PGT_1,Fertile,Mast,105
+LH7_PGT_1,Fertile,Myeloid,343
+LH7_PGT_1,Fertile,NK cell,892
+LH7_PGT_1,Fertile,Stromal,7192
+LH7_PGT_1,Fertile,T cell,340
+LH7_PGT_2,Fertile,B/Plasma,134
+LH7_PGT_2,Fertile,Ciliated,216
+LH7_PGT_2,Fertile,Endothelial,29
+LH7_PGT_2,Fertile,Epithelial,876
+LH7_PGT_2,Fertile,Glandular,268
+LH7_PGT_2,Fertile,Lymphatic EC,164
+LH7_PGT_2,Fertile,Mast,79
+LH7_PGT_2,Fertile,Myeloid,391
+LH7_PGT_2,Fertile,NK cell,2096
+LH7_PGT_2,Fertile,Stromal,429
+LH7_PGT_2,Fertile,T cell,1851
+LH7_PGT_3,Fertile,B/Plasma,42
+LH7_PGT_3,Fertile,Ciliated,93
+LH7_PGT_3,Fertile,Endothelial,2
+LH7_PGT_3,Fertile,Epithelial,139
+LH7_PGT_3,Fertile,Glandular,56
+LH7_PGT_3,Fertile,Lymphatic EC,6
+LH7_PGT_3,Fertile,Mast,23
+LH7_PGT_3,Fertile,Myeloid,175
+LH7_PGT_3,Fertile,NK cell,2804
+LH7_PGT_3,Fertile,Stromal,2782
+LH7_PGT_3,Fertile,T cell,665
+RIF_1,RIF,B/Plasma,36
+RIF_1,RIF,Ciliated,240
+RIF_1,RIF,Endothelial,221
+RIF_1,RIF,Epithelial,1740
+RIF_1,RIF,Glandular,672
+RIF_1,RIF,Lymphatic EC,53
+RIF_1,RIF,Mast,46
+RIF_1,RIF,Myeloid,178
+RIF_1,RIF,NK cell,2563
+RIF_1,RIF,Stromal,12469
+RIF_1,RIF,T cell,2125
+RIF_10,RIF,B/Plasma,190
+RIF_10,RIF,Ciliated,370
+RIF_10,RIF,Endothelial,18
+RIF_10,RIF,Epithelial,549
+RIF_10,RIF,Glandular,254
+RIF_10,RIF,Lymphatic EC,47
+RIF_10,RIF,Mast,35
+RIF_10,RIF,Myeloid,435
+RIF_10,RIF,NK cell,2734
+RIF_10,RIF,Stromal,441
+RIF_10,RIF,T cell,1106
+RIF_2,RIF,B/Plasma,13
+RIF_2,RIF,Ciliated,70
+RIF_2,RIF,Endothelial,13
+RIF_2,RIF,Epithelial,1890
+RIF_2,RIF,Glandular,478
+RIF_2,RIF,Lymphatic EC,11
+RIF_2,RIF,Mast,11
+RIF_2,RIF,Myeloid,102
+RIF_2,RIF,NK cell,322
+RIF_2,RIF,Stromal,4763
+RIF_2,RIF,T cell,111
+RIF_3,RIF,B/Plasma,80
+RIF_3,RIF,Ciliated,77
+RIF_3,RIF,Endothelial,8
+RIF_3,RIF,Epithelial,491
+RIF_3,RIF,Glandular,119
+RIF_3,RIF,Lymphatic EC,29
+RIF_3,RIF,Mast,81
+RIF_3,RIF,Myeloid,233
+RIF_3,RIF,NK cell,3696
+RIF_3,RIF,Stromal,1123
+RIF_3,RIF,T cell,2551
+RIF_4,RIF,B/Plasma,68
+RIF_4,RIF,Ciliated,78
+RIF_4,RIF,Endothelial,47
+RIF_4,RIF,Epithelial,847
+RIF_4,RIF,Glandular,246
+RIF_4,RIF,Lymphatic EC,29
+RIF_4,RIF,Mast,14
+RIF_4,RIF,Myeloid,164
+RIF_4,RIF,NK cell,2922
+RIF_4,RIF,Stromal,4724
+RIF_4,RIF,T cell,979
+RIF_5,RIF,B/Plasma,176
+RIF_5,RIF,Ciliated,443
+RIF_5,RIF,Endothelial,86
+RIF_5,RIF,Epithelial,1410
+RIF_5,RIF,Glandular,287
+RIF_5,RIF,Lymphatic EC,152
+RIF_5,RIF,Mast,60
+RIF_5,RIF,Myeloid,1721
+RIF_5,RIF,NK cell,1436
+RIF_5,RIF,Stromal,1430
+RIF_5,RIF,T cell,1096
+RIF_6,RIF,B/Plasma,41
+RIF_6,RIF,Ciliated,279
+RIF_6,RIF,Endothelial,72
+RIF_6,RIF,Epithelial,585
+RIF_6,RIF,Glandular,298
+RIF_6,RIF,Lymphatic EC,33
+RIF_6,RIF,Mast,56
+RIF_6,RIF,Myeloid,382
+RIF_6,RIF,NK cell,1247
+RIF_6,RIF,Stromal,16962
+RIF_6,RIF,T cell,606
+RIF_7,RIF,B/Plasma,28
+RIF_7,RIF,Ciliated,13
+RIF_7,RIF,Endothelial,2
+RIF_7,RIF,Epithelial,128
+RIF_7,RIF,Glandular,26
+RIF_7,RIF,Lymphatic EC,28
+RIF_7,RIF,Mast,6
+RIF_7,RIF,Myeloid,123
+RIF_7,RIF,NK cell,2264
+RIF_7,RIF,Stromal,2286
+RIF_7,RIF,T cell,2756
+RIF_8,RIF,B/Plasma,8
+RIF_8,RIF,Ciliated,53
+RIF_8,RIF,Endothelial,9
+RIF_8,RIF,Epithelial,1009
+RIF_8,RIF,Glandular,167
+RIF_8,RIF,Lymphatic EC,41
+RIF_8,RIF,Mast,6
+RIF_8,RIF,Myeloid,84
+RIF_8,RIF,NK cell,4159
+RIF_8,RIF,Stromal,106
+RIF_8,RIF,T cell,670
+RIF_9,RIF,B/Plasma,84
+RIF_9,RIF,Ciliated,190
+RIF_9,RIF,Endothelial,63
+RIF_9,RIF,Epithelial,549
+RIF_9,RIF,Glandular,132
+RIF_9,RIF,Lymphatic EC,46
+RIF_9,RIF,Mast,33
+RIF_9,RIF,Myeloid,228
+RIF_9,RIF,NK cell,3513
+RIF_9,RIF,Stromal,1166
+RIF_9,RIF,T cell,582

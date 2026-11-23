@@ -1,0 +1,2 @@
+cell_type,scheme,n_rif_half_A,n_rif_half_B,n_fer_half_A,n_fer_half_B,donors_RIF_A,donors_RIF_B,donors_FER_A,donors_FER_B,common_testable_genes,network_only_pool,gene_level_r,gene_pair_dz_r,n_perm,seed
+Stromal,cell_random,750,750,750,750,shared,shared,shared,shared,941,670,0.8706210078092395,0.7485127605500247,2000,20261117

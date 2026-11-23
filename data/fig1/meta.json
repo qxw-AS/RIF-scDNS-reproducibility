@@ -1,0 +1,33 @@
+{
+ "n_cells": 149590,
+ "n_samples": 16,
+ "n_cell_types": 11,
+ "cell_types": [
+  "Epithelial",
+  "Glandular",
+  "Ciliated",
+  "Stromal",
+  "Endothelial",
+  "Lymphatic EC",
+  "T cell",
+  "NK cell",
+  "B/Plasma",
+  "Myeloid",
+  "Mast"
+ ],
+ "n_rif": 102328,
+ "n_fer": 47262,
+ "cells_per_type": {
+  "Stromal": 63554,
+  "NK cell": 33012,
+  "Epithelial": 20292,
+  "T cell": 17682,
+  "Myeloid": 4874,
+  "Glandular": 4410,
+  "Ciliated": 2798,
+  "B/Plasma": 1009,
+  "Lymphatic EC": 710,
+  "Endothelial": 642,
+  "Mast": 607
+ }
+}

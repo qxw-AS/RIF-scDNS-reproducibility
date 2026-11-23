@@ -1,0 +1,2 @@
+cell_type,scheme,n_rif_half_A,n_rif_half_B,n_fer_half_A,n_fer_half_B,donors_RIF_A,donors_RIF_B,donors_FER_A,donors_FER_B,common_testable_genes,network_only_pool,gene_level_r,gene_pair_dz_r,n_perm,seed
+Stromal,donor_balanced,655,655,637,637,RIF_6;RIF_2;RIF_7;RIF_9;RIF_10,RIF_1;RIF_4;RIF_5;RIF_3;RIF_8,LH7_PGT_1;LH7_PGT_3;LH7_PGT_2,LH7_1;LH7_3;LH7_2,596,407,0.07888240760392995,0.027423066397097524,2000,20261117

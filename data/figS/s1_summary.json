@@ -1,0 +1,8 @@
+{
+  "n_cells": 149590,
+  "n_samples": 16,
+  "n_clusters_leiden": 52,
+  "n_clusters_single_sample_gt50": 14,
+  "ari_median": 0.6796418677854341,
+  "ari_min": 0.5802158648660631
+}

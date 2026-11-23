@@ -1,0 +1,11 @@
+# Keep line endings byte-stable so that regenerated tables diff cleanly.
+* text=auto eol=lf
+*.csv  text eol=lf
+*.tsv  text eol=lf
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.cff  text eol=lf
+*.pdf  binary
+*.png  binary
+*.tif  binary
